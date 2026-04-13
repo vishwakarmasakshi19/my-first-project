@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">💻 Aspiring Web Developer | Python & Django Learner</h3>
-
+<h3 align="center">💻 Learning Web Development | Python & Django</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I+love+coding+💻;Learning+something+new+everyday+🚀">
 </p>
